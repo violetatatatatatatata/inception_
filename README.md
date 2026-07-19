@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by albealva.*
+*This project has been created as part of the 42 curriculum by avelandr.*
 
 # Inception - Virtualization and Infrastructure
 
