@@ -2,7 +2,7 @@
 NAME = inception
 DOCKER_COMPOSE_FILE = ./srcs/docker-compose.yml
 
-# Dynamic path to handle different users (berto, albealva, or evaluator)
+# Dynamic path to handle different users
 USER_NAME = $(shell whoami)
 DATA_PATH = /home/$(USER_NAME)/data
 
